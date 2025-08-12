@@ -1,0 +1,49 @@
+{
+    "data": {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@jatis.dev",
+      "phone_number": null,
+      "store_id": 0,
+      "status": true,
+      "roles": [
+        "admin"
+      ],
+      "permissions": [
+        "view menu element ui",
+        "view menu permission",
+        "view dashboard",
+        "view menu administrator",
+        "view menu crud store",
+        "view menu faq",
+        "view menu fee",
+        "view menu food",
+        "view menu order",
+        "view menu report",
+        "view menu stock",
+        "view menu store",
+        "view menu user",
+        "view menu service",
+        "view menu merchant",
+        "manage user",
+        "manage permission",
+        "manage order",
+        "manage food",
+        "manage store",
+        "manage merchant",
+        "manage faq",
+        "manage service",
+        "manage fee",
+        "view refund",
+        "manage delivery",
+        "manage report",
+        "manage stock"
+      ],
+      "store": [
+        "3"
+      ],
+      "merchant": [
+        "1"
+      ]
+    }
+  }

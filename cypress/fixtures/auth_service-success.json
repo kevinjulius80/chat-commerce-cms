@@ -1,0 +1,8 @@
+{
+    "status":     "success",
+	"error_desc": "",
+	"data": {
+		"token":   "13b61414-8611-4901-8195-1f62c44cbba5",
+		"expired": "2023-12-31 23:59:59"
+	}
+}

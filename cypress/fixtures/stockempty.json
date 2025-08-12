@@ -1,0 +1,39 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "category_id": 1,
+        "name": "name",
+        "short_desc": "short desc",
+        "description": "desc",
+        "picture": "pic",
+        "is_active": true,
+        "price": 12,
+        "stock": 0,
+        "width": 1,
+        "height": 1,
+        "length": 1,
+        "weight": 1,
+        "pictures": []
+      },
+      {
+        "id": 2,
+        "category_id": 1,
+        "name": "name",
+        "short_desc": "short desc",
+        "description": "desc",
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.klook.com%2Fimages%2Ffl_lossy.progressive%2Cq_65%2Fc_fill%2Cw_1200%2Ch_630%2Fw_80%2Cx_15%2Cy_15%2Cg_south_west%2Cl_Klook_water_br_trans_yhcmh3%2Factivities%2Ft9ur9cc1khkup1dmcbzd%2FTiket%2520Masuk%2520IMG%2520Worlds%2520of%2520Adventure%2520di%2520Dubai%2520-%2520Klook.jpg&imgrefurl=https%3A%2F%2Fwww.klook.com%2Fid%2Factivity%2F2907-img-worlds-of-adventure-dubai%2F&tbnid=sUbu1EIQH7sDOM&vet=12ahUKEwjRyLfioM79AhXaKrcAHQt6CmYQMygCegUIARDmAQ..i&docid=wn7YdgGhmC6ChM&w=1200&h=630&q=img&ved=2ahUKEwjRyLfioM79AhXaKrcAHQt6CmYQMygCegUIARDmAQ",
+        "is_active": false,
+        "price": 12,
+        "stock": 0,
+        "width": 1,
+        "height": 1,
+        "length": 1,
+        "weight": 1,
+        "pictures": []
+      }
+    ],
+    "error": "",
+    "message": "",
+    "success": true
+  }

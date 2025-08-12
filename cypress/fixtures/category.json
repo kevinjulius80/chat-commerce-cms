@@ -1,0 +1,22 @@
+{
+    "data": [
+      {
+        "id": 2,
+        "name": "minuman",
+        "picture": "",
+        "reference_id": "e1c1c324b",
+        "store_name": "storecontoh2",
+        "is_active": true
+      },
+      {
+        "id": 1,
+        "name": "makanan berat",
+        "picture": "makananberat.com",
+        "reference_id": "41569ff7f",
+        "store_name": "storecontoh2",
+        "is_active": true
+      }
+    ],
+    "error": "",
+    "success": true
+  }

@@ -1,0 +1,13 @@
+{
+	"data": {
+		"ACCEPTED":0,
+		"DELIVERED":0,
+		"FAILED":0,
+		"INITIATED":0,
+		"ON_THE_WAY":0,
+		"PAYMENT_CONFIRMED":0,
+		"REFUNDED":0,
+		"REJECTED":0,
+		"SUCCESSFUL":0
+	}
+}

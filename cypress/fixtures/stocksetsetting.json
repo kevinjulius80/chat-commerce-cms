@@ -1,0 +1,10 @@
+{
+  "data": {
+    "store_id": 1,
+    "min_stock": 101,
+    "max_sales_days": 30
+  },
+  "error": "",
+  "message": "success",
+  "success": true
+}

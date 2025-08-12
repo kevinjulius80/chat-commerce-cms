@@ -1,0 +1,29 @@
+{
+    "data": {
+      "month": "Mar 2023",
+      "top_dashboard": {
+        "total_successful_orders": 4,
+        "total_orders": 19,
+        "total_customers": 0,
+        "total_revenue": 70000
+      },
+      "today_summary": {
+        "new_orders": 0,
+        "pending_orders": 0,
+        "on_the_way_orders": 0,
+        "delivered_orders": 0,
+        "rejected_orders": 0,
+        "failed_orders": 0,
+        "total_orders": 0
+      },
+      "week_summary": {
+        "new_orders": 0,
+        "pending_orders": 0,
+        "on_the_way_orders": 0,
+        "delivered_orders": 0,
+        "rejected_orders": 0,
+        "failed_orders": 0,
+        "total_orders": 0
+      }
+    }
+  }

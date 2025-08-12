@@ -1,0 +1,88 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "atha",
+        "code": "1",
+        "notif_code": "1-4notif",
+        "client_username": "",
+        "client_password": "",
+        "notif_client_username": "",
+        "notif_client_password": "",
+        "wa_template_namespace": "",
+        "wa_template_name": "",
+        "phone_number": "",
+        "social": "",
+        "message": null,
+        "stores": [
+          {
+            "id": 1,
+            "name": "test store",
+            "address": "panongan",
+            "city": "tangerang",
+            "country": "indonesia",
+            "max_radius": 10,
+            "is_active": true,
+            "location_lat": 12,
+            "location_long": 12,
+            "merchant_id": 0,
+            "is_open": false,
+            "picture": "",
+            "zip_code": "",
+            "category_id": 0
+          },
+          {
+            "id": 2,
+            "name": "storecontoh",
+            "address": "dimana mana hatiku senang",
+            "city": "tangerangg",
+            "country": "indonesia",
+            "max_radius": 10,
+            "is_active": true,
+            "location_lat": 1.1,
+            "location_long": 2.2,
+            "merchant_id": 0,
+            "is_open": false,
+            "picture": "",
+            "zip_code": "",
+            "category_id": 0
+          },
+          {
+            "id": 3,
+            "name": "storecontoh2",
+            "address": "dimana mana hatiku senang",
+            "city": "tangerangg",
+            "country": "indonesia",
+            "max_radius": 10,
+            "is_active": true,
+            "location_lat": -6.261014610959956,
+            "location_long": 106.52486774404345,
+            "merchant_id": 0,
+            "is_open": false,
+            "picture": "",
+            "zip_code": "",
+            "category_id": 0
+          },
+          {
+            "id": 4,
+            "name": "storecontoh3",
+            "address": "dimana mana hatiku senang",
+            "city": "tangerangg",
+            "country": "indonesia",
+            "max_radius": 10,
+            "is_active": true,
+            "location_lat": 1.1,
+            "location_long": 2.2,
+            "merchant_id": 0,
+            "is_open": false,
+            "picture": "",
+            "zip_code": "",
+            "category_id": 0
+          }
+        ],
+        "platform_fee": ""
+      }
+    ],
+    "error": "",
+    "success": true
+  }
